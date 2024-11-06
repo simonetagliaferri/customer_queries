@@ -1,7 +1,7 @@
 package it.customer.bd;
 
 import it.customer.bd.model.Customer;
-import it.customer.bd.dao.CustomerDAO;
+import it.customer.bd.model.dao.CustomerDAO;
 
 import java.util.List;
 
